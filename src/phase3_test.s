@@ -12,7 +12,7 @@
 _start:
 	.global _start
 
-    // Result register - DO NOT MODIFY
+    // Result register
     li x1, 0
     // x30 = 1 or 0x00000001 - DO NOT MODIFY
     li x30, 1
