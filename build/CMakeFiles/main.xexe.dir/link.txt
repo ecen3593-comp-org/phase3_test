@@ -1,0 +1,1 @@
+/home/project/ia_phase3/work/ia/sdk/bin/ia_phase3-ia-clang -O0 -g3 -nostdlib    -rdynamic CMakeFiles/main.xexe.dir/src/phase3_test.s.o  -o main.xexe 
